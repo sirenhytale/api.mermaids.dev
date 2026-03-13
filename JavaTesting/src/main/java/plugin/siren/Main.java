@@ -27,7 +27,7 @@ public class Main {
     public static void test() throws IOException {
 
         // Make a URL to the web page
-        URL url = new URL("https://mefroggy.github.io/MermaidsAPI/api/");
+        URL url = new URL("https://api.mermaids.dev/api/mermaids/release/");
 
         // Get the input stream through URL Connection
         URLConnection con = url.openConnection();
