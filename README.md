@@ -4,11 +4,6 @@ API to receive information about my plugins and more.
 ## Mermaids
 ### Release
 [https://api.mermaids.dev/versions/mermaids/release/](https://api.mermaids.dev/versions/mermaids/release/)
-#### Alpha
-[https://api.mermaids.dev/versions/mermaids/alpha/2.0.0/](https://api.mermaids.dev/versions/mermaids/alpha/2.0.0/)
-### Pre-Release
-#### Alpha
-[https://api.mermaids.dev/versions/mermaids/pre-release/alpha/2.0.0/](https://api.mermaids.dev/versions/mermaids/pre-release/alpha/2.0.0/)
 
 ## Marriage
 ### Release
